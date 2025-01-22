@@ -1,0 +1,567 @@
+{
+  "1201": {
+    "vdcmun_name": "Champadevi Rural Municipality",
+    "district_id": 12,
+    "district_name": "Okhaldhunga"
+  },
+  "1202": {
+    "vdcmun_name": "Chishankhu Gadhi Rural Municipality",
+    "district_id": 12,
+    "district_name": "Okhaldhunga"
+  },
+  "1203": {
+    "vdcmun_name": "Khiji Demba Rural Municipality",
+    "district_id": 12,
+    "district_name": "Okhaldhunga"
+  },
+  "1204": {
+    "vdcmun_name": "Likhu Rural Municipality",
+    "district_id": 12,
+    "district_name": "Okhaldhunga"
+  },
+  "1205": {
+    "vdcmun_name": "Manebhanjyang Rural Municipality",
+    "district_id": 12,
+    "district_name": "Okhaldhunga"
+  },
+  "1206": {
+    "vdcmun_name": "Molung Rural Municipality",
+    "district_id": 12,
+    "district_name": "Okhaldhunga"
+  },
+  "1207": {
+    "vdcmun_name": "Siddhicharan Municipality",
+    "district_id": 12,
+    "district_name": "Okhaldhunga"
+  },
+  "1208": {
+    "vdcmun_name": "Sunkoshi Rural Municipality",
+    "district_id": 12,
+    "district_name": "Okhaldhunga"
+  },
+  "2001": {
+    "vdcmun_name": "Dudhouli Municipality",
+    "district_id": 20,
+    "district_name": "Sindhuli"
+  },
+  "2002": {
+    "vdcmun_name": "Ghyanglekha Rural Municipality",
+    "district_id": 20,
+    "district_name": "Sindhuli"
+  },
+  "2003": {
+    "vdcmun_name": "Golanjor Rural Municipality",
+    "district_id": 20,
+    "district_name": "Sindhuli"
+  },
+  "2004": {
+    "vdcmun_name": "Hariharpurgaghi Rural Municipality",
+    "district_id": 20,
+    "district_name": "Sindhuli"
+  },
+  "2005": {
+    "vdcmun_name": "Kamalamai Municipality",
+    "district_id": 20,
+    "district_name": "Sindhuli"
+  },
+  "2006": {
+    "vdcmun_name": "Marin Rural Municipality",
+    "district_id": 20,
+    "district_name": "Sindhuli"
+  },
+  "2007": {
+    "vdcmun_name": "Phikkal Rural Municipality",
+    "district_id": 20,
+    "district_name": "Sindhuli"
+  },
+  "2008": {
+    "vdcmun_name": "Sunkoshi Rural Municipality",
+    "district_id": 20,
+    "district_name": "Sindhuli"
+  },
+  "2009": {
+    "vdcmun_name": "Tinpatan Rural Municipality",
+    "district_id": 20,
+    "district_name": "Sindhuli"
+  },
+  "2101": {
+    "vdcmun_name": "Doramba Rural Municipality",
+    "district_id": 21,
+    "district_name": "Ramechhap"
+  },
+  "2102": {
+    "vdcmun_name": "Gokulganga Rural Municipality",
+    "district_id": 21,
+    "district_name": "Ramechhap"
+  },
+  "2103": {
+    "vdcmun_name": "Khandadevi Rural Municipality",
+    "district_id": 21,
+    "district_name": "Ramechhap"
+  },
+  "2104": {
+    "vdcmun_name": "Likhu Tamakoshi Rural Municipality",
+    "district_id": 21,
+    "district_name": "Ramechhap"
+  },
+  "2105": {
+    "vdcmun_name": "Manthali  Municipality",
+    "district_id": 21,
+    "district_name": "Ramechhap"
+  },
+  "2106": {
+    "vdcmun_name": "Ramechhap Municipality",
+    "district_id": 21,
+    "district_name": "Ramechhap"
+  },
+  "2107": {
+    "vdcmun_name": "Sunapati Rural Municipality",
+    "district_id": 21,
+    "district_name": "Ramechhap"
+  },
+  "2108": {
+    "vdcmun_name": "Umakunda Rural Municipality",
+    "district_id": 21,
+    "district_name": "Ramechhap"
+  },
+  "2201": {
+    "vdcmun_name": "Baitedhar Rural Municipality",
+    "district_id": 22,
+    "district_name": "Dolakha"
+  },
+  "2202": {
+    "vdcmun_name": "Bhimeshwor Municipality",
+    "district_id": 22,
+    "district_name": "Dolakha"
+  },
+  "2203": {
+    "vdcmun_name": "Bigu Rural Municipality",
+    "district_id": 22,
+    "district_name": "Dolakha"
+  },
+  "2204": {
+    "vdcmun_name": "Gaurishankar Rural Municipality",
+    "district_id": 22,
+    "district_name": "Dolakha"
+  },
+  "2205": {
+    "vdcmun_name": "Jiri Municipality",
+    "district_id": 22,
+    "district_name": "Dolakha"
+  },
+  "2206": {
+    "vdcmun_name": "Kalinchowk Rural Municipality",
+    "district_id": 22,
+    "district_name": "Dolakha"
+  },
+  "2207": {
+    "vdcmun_name": "Melung Rural Municipality",
+    "district_id": 22,
+    "district_name": "Dolakha"
+  },
+  "2208": {
+    "vdcmun_name": "Shailung Rural Municipality",
+    "district_id": 22,
+    "district_name": "Dolakha"
+  },
+  "2209": {
+    "vdcmun_name": "Tamakoshi Rural Municipality",
+    "district_id": 22,
+    "district_name": "Dolakha"
+  },
+  "2301": {
+    "vdcmun_name": "Bahrabise Municipality",
+    "district_id": 23,
+    "district_name": "Sindhupalchok"
+  },
+  "2302": {
+    "vdcmun_name": "Balephi Rural Municipality",
+    "district_id": 23,
+    "district_name": "Sindhupalchok"
+  },
+  "2303": {
+    "vdcmun_name": "Bhotekoshi Rural Municipality",
+    "district_id": 23,
+    "district_name": "Sindhupalchok"
+  },
+  "2304": {
+    "vdcmun_name": "Choutara Sangachowkgadhi Municipality",
+    "district_id": 23,
+    "district_name": "Sindhupalchok"
+  },
+  "2305": {
+    "vdcmun_name": "Helambu Rural Municipality",
+    "district_id": 23,
+    "district_name": "Sindhupalchok"
+  },
+  "2306": {
+    "vdcmun_name": "Indrawoti Rural Municipality",
+    "district_id": 23,
+    "district_name": "Sindhupalchok"
+  },
+  "2307": {
+    "vdcmun_name": "Jugal Rural Municipality",
+    "district_id": 23,
+    "district_name": "Sindhupalchok"
+  },
+  "2308": {
+    "vdcmun_name": "Langtang National Park",
+    "district_id": 23,
+    "district_name": "Sindhupalchok"
+  },
+  "2309": {
+    "vdcmun_name": "Lisankhu Pakhar Rural Municipality",
+    "district_id": 23,
+    "district_name": "Sindhupalchok"
+  },
+  "2310": {
+    "vdcmun_name": "Melanchi Municipality",
+    "district_id": 23,
+    "district_name": "Sindhupalchok"
+  },
+  "2311": {
+    "vdcmun_name": "Panchpokhari Thangpal Rural Municipality",
+    "district_id": 23,
+    "district_name": "Sindhupalchok"
+  },
+  "2312": {
+    "vdcmun_name": "Sunkoshi Rural Municipality",
+    "district_id": 23,
+    "district_name": "Sindhupalchok"
+  },
+  "2313": {
+    "vdcmun_name": "Tripurasundari Rural Municipality",
+    "district_id": 23,
+    "district_name": "Sindhupalchok"
+  },
+  "2401": {
+    "vdcmun_name": "Banepa Municipality",
+    "district_id": 24,
+    "district_name": "Kavrepalanchok"
+  },
+  "2402": {
+    "vdcmun_name": "Bethanchowk Rural Municipality",
+    "district_id": 24,
+    "district_name": "Kavrepalanchok"
+  },
+  "2403": {
+    "vdcmun_name": "Bhumlu Rural Municipality",
+    "district_id": 24,
+    "district_name": "Kavrepalanchok"
+  },
+  "2404": {
+    "vdcmun_name": "Chauri Deurali Rural Municipality",
+    "district_id": 24,
+    "district_name": "Kavrepalanchok"
+  },
+  "2405": {
+    "vdcmun_name": "Dhulikhel Municipality",
+    "district_id": 24,
+    "district_name": "Kavrepalanchok"
+  },
+  "2406": {
+    "vdcmun_name": "Khanikhola Rural Municipality",
+    "district_id": 24,
+    "district_name": "Kavrepalanchok"
+  },
+  "2407": {
+    "vdcmun_name": "Mahabharat Rural Municipality",
+    "district_id": 24,
+    "district_name": "Kavrepalanchok"
+  },
+  "2408": {
+    "vdcmun_name": "Mandan Deupur Municipality",
+    "district_id": 24,
+    "district_name": "Kavrepalanchok"
+  },
+  "2409": {
+    "vdcmun_name": "Namobuddha Municipality",
+    "district_id": 24,
+    "district_name": "Kavrepalanchok"
+  },
+  "2410": {
+    "vdcmun_name": "Panauti Municipality",
+    "district_id": 24,
+    "district_name": "Kavrepalanchok"
+  },
+  "2411": {
+    "vdcmun_name": "Panchkhal Municipality",
+    "district_id": 24,
+    "district_name": "Kavrepalanchok"
+  },
+  "2412": {
+    "vdcmun_name": "Roshi Rural Municipality",
+    "district_id": 24,
+    "district_name": "Kavrepalanchok"
+  },
+  "2413": {
+    "vdcmun_name": "Temal Rural Municipality",
+    "district_id": 24,
+    "district_name": "Kavrepalanchok"
+  },
+  "2801": {
+    "vdcmun_name": "Belkotgadhi Municipality",
+    "district_id": 28,
+    "district_name": "Nuwakot"
+  },
+  "2802": {
+    "vdcmun_name": "Bidur Municipality",
+    "district_id": 28,
+    "district_name": "Nuwakot"
+  },
+  "2803": {
+    "vdcmun_name": "Dupcheshwor Rural Municipality",
+    "district_id": 28,
+    "district_name": "Nuwakot"
+  },
+  "2804": {
+    "vdcmun_name": "Kakani Rural Municipality",
+    "district_id": 28,
+    "district_name": "Nuwakot"
+  },
+  "2805": {
+    "vdcmun_name": "Kispang Rural Municipality",
+    "district_id": 28,
+    "district_name": "Nuwakot"
+  },
+  "2806": {
+    "vdcmun_name": "Langtang National Park",
+    "district_id": 28,
+    "district_name": "Nuwakot"
+  },
+  "2807": {
+    "vdcmun_name": "Likhu Rural Municipality",
+    "district_id": 28,
+    "district_name": "Nuwakot"
+  },
+  "2808": {
+    "vdcmun_name": "Myagang Rural Municipality",
+    "district_id": 28,
+    "district_name": "Nuwakot"
+  },
+  "2809": {
+    "vdcmun_name": "Panchakanya Rural Municipality",
+    "district_id": 28,
+    "district_name": "Nuwakot"
+  },
+  "2810": {
+    "vdcmun_name": "Shivapuri Rural Municipality",
+    "district_id": 28,
+    "district_name": "Nuwakot"
+  },
+  "2811": {
+    "vdcmun_name": "Suryagadhi Rural Municipality",
+    "district_id": 28,
+    "district_name": "Nuwakot"
+  },
+  "2812": {
+    "vdcmun_name": "Tadi Rural Municipality",
+    "district_id": 28,
+    "district_name": "Nuwakot"
+  },
+  "2813": {
+    "vdcmun_name": "Tarakeshwor Rural Municipality",
+    "district_id": 28,
+    "district_name": "Nuwakot"
+  },
+  "2901": {
+    "vdcmun_name": "Aamachhodingmo Rural Municipality",
+    "district_id": 29,
+    "district_name": "Rasuwa"
+  },
+  "2902": {
+    "vdcmun_name": "Gosaikunda Rural Municipality",
+    "district_id": 29,
+    "district_name": "Rasuwa"
+  },
+  "2903": {
+    "vdcmun_name": "Kalika Rural Municipality",
+    "district_id": 29,
+    "district_name": "Rasuwa"
+  },
+  "2904": {
+    "vdcmun_name": "Naukunda Rural Municipality",
+    "district_id": 29,
+    "district_name": "Rasuwa"
+  },
+  "2905": {
+    "vdcmun_name": "Uttargaya Rural Municipality",
+    "district_id": 29,
+    "district_name": "Rasuwa"
+  },
+  "3001": {
+    "vdcmun_name": "Benighat Rorang Rural Municipality",
+    "district_id": 30,
+    "district_name": "Dhading"
+  },
+  "3002": {
+    "vdcmun_name": "Dhunibenshi Municipality",
+    "district_id": 30,
+    "district_name": "Dhading"
+  },
+  "3003": {
+    "vdcmun_name": "Gajuri Rural Municipality",
+    "district_id": 30,
+    "district_name": "Dhading"
+  },
+  "3004": {
+    "vdcmun_name": "Galchhi Rural Municipality",
+    "district_id": 30,
+    "district_name": "Dhading"
+  },
+  "3005": {
+    "vdcmun_name": "Ganga Jamuna Rural Municipality",
+    "district_id": 30,
+    "district_name": "Dhading"
+  },
+  "3006": {
+    "vdcmun_name": "Jwalamukhi Rural Municipality",
+    "district_id": 30,
+    "district_name": "Dhading"
+  },
+  "3007": {
+    "vdcmun_name": "Khaniyabas Rural Municipality",
+    "district_id": 30,
+    "district_name": "Dhading"
+  },
+  "3008": {
+    "vdcmun_name": "Netrawati Dabajong Rural Municipality",
+    "district_id": 30,
+    "district_name": "Dhading"
+  },
+  "3009": {
+    "vdcmun_name": "Neelakantha Municipality",
+    "district_id": 30,
+    "district_name": "Dhading"
+  },
+  "3010": {
+    "vdcmun_name": "Rubi Valley Rural Municipality",
+    "district_id": 30,
+    "district_name": "Dhading"
+  },
+  "3011": {
+    "vdcmun_name": "Siddhalek Rural Municipality",
+    "district_id": 30,
+    "district_name": "Dhading"
+  },
+  "3012": {
+    "vdcmun_name": "Thakre Rural Municipality",
+    "district_id": 30,
+    "district_name": "Dhading"
+  },
+  "3013": {
+    "vdcmun_name": "Tripurasundari Rural Municipality",
+    "district_id": 30,
+    "district_name": "Dhading"
+  },
+  "3101": {
+    "vdcmun_name": "Bagmati Rural Municipality",
+    "district_id": 31,
+    "district_name": "Makwanpur"
+  },
+  "3102": {
+    "vdcmun_name": "Bakaiya Rural Municipality",
+    "district_id": 31,
+    "district_name": "Makwanpur"
+  },
+  "3103": {
+    "vdcmun_name": "Bhimphedi Rural Municipality",
+    "district_id": 31,
+    "district_name": "Makwanpur"
+  },
+  "3104": {
+    "vdcmun_name": "Hetauda Sub-Metropolitian City",
+    "district_id": 31,
+    "district_name": "Makwanpur"
+  },
+  "3105": {
+    "vdcmun_name": "Indrasarowar Rural Municipality",
+    "district_id": 31,
+    "district_name": "Makwanpur"
+  },
+  "3106": {
+    "vdcmun_name": "Kailash Rural Municipality",
+    "district_id": 31,
+    "district_name": "Makwanpur"
+  },
+  "3107": {
+    "vdcmun_name": "Makawanpurgadhi Rural Municipality",
+    "district_id": 31,
+    "district_name": "Makwanpur"
+  },
+  "3108": {
+    "vdcmun_name": "Manahari Rural Municipality",
+    "district_id": 31,
+    "district_name": "Makwanpur"
+  },
+  "3109": {
+    "vdcmun_name": "Parsa Wild Life Reserve",
+    "district_id": 31,
+    "district_name": "Makwanpur"
+  },
+  "3110": {
+    "vdcmun_name": "Raksirang Rural Municipality",
+    "district_id": 31,
+    "district_name": "Makwanpur"
+  },
+  "3111": {
+    "vdcmun_name": "Thaha Municipality",
+    "district_id": 31,
+    "district_name": "Makwanpur"
+  },
+  "3601": {
+    "vdcmun_name": "Aarughat Rural Municipality",
+    "district_id": 36,
+    "district_name": "Gorkha"
+  },
+  "3602": {
+    "vdcmun_name": "Ajirkot Rural Municipality",
+    "district_id": 36,
+    "district_name": "Gorkha"
+  },
+  "3603": {
+    "vdcmun_name": "Barpak Sulikot Rural Municipality",
+    "district_id": 36,
+    "district_name": "Gorkha"
+  },
+  "3604": {
+    "vdcmun_name": "Bhimsen Thapa Rural Municipality",
+    "district_id": 36,
+    "district_name": "Gorkha"
+  },
+  "3605": {
+    "vdcmun_name": "Chumanubri Rural Municipality",
+    "district_id": 36,
+    "district_name": "Gorkha"
+  },
+  "3606": {
+    "vdcmun_name": "Dharche Rural Municipality",
+    "district_id": 36,
+    "district_name": "Gorkha"
+  },
+  "3607": {
+    "vdcmun_name": "Gandaki Rural Municipality",
+    "district_id": 36,
+    "district_name": "Gorkha"
+  },
+  "3608": {
+    "vdcmun_name": "Gorkha Municipality",
+    "district_id": 36,
+    "district_name": "Gorkha"
+  },
+  "3609": {
+    "vdcmun_name": "Palungtar Municipality",
+    "district_id": 36,
+    "district_name": "Gorkha"
+  },
+  "3610": {
+    "vdcmun_name": "Shahid Lakhan Rural Municipality",
+    "district_id": 36,
+    "district_name": "Gorkha"
+  },
+  "3611": {
+    "vdcmun_name": "Siranchowk Rural Municipality",
+    "district_id": 36,
+    "district_name": "Gorkha"
+  }
+}

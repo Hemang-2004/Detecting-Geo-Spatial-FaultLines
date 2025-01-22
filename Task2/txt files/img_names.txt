@@ -1,0 +1,41 @@
+Boxplot and Stripplot of Deaths and Injuries at VDC or Municipality Level
+
+Boxplot of Deaths and Injuries at VDC or Municipality Level
+
+Combined Risk and Death Profiles of Top Districts
+
+Correlation Between Risk Factors
+
+Deaths and Injuries per 1000 Population by District
+
+Distribution of Deaths and Injuries at District Level
+
+District Population vs Total Deaths (Circular View)
+
+District-wise Deaths Per 1000 Population Pie chart and point chart side by side
+
+District-wise Deaths Per 1000 Population
+
+Integrated Scatter Plot with Regression Line
+
+Node-Link Diagram of Risk Factor Correlations
+
+Pie Chart of Correlations by Risk Factor
+
+Risk Distribution Across Districts (Doughnut Chart)
+
+Risk Distribution Across Districts (Treemap)
+
+Risk Distribution Across Districts
+
+Risk Profile for Top 6 districts
+
+Stacked Bar Chart of Risks Across Districts
+
+Sunburst Chart of Risk Distribution Across Districts
+
+Sunburst Chart of Significant Correlations
+
+Superimposed Scatter Plot of Population, Total Deaths, and Total Injuries
+
+Total Rahat by District (Bar Chart)

@@ -1,0 +1,32 @@
+[
+[
+  { "district_name": "Dhading", "damage_percent_district_name": 62.0249907775 },
+  { "district_name": "Dolakha", "damage_percent_district_name": 68.7804704459 },
+  { "district_name": "Gorkha", "damage_percent_district_name": 60.0909775656 },
+  { "district_name": "Kavrepalanchok", "damage_percent_district_name": 55.203591928},
+  { "district_name": "Makwanpur", "damage_percent_district_name": 34.9036123068},
+  { "district_name": "Nuwakot", "damage_percent_district_name": 68.3601421374 },
+  { "district_name": "Okhaldhunga", "damage_percent_district_name": 43.943373885},
+  { "district_name": "Ramechhap", "damage_percent_district_name": 56.5817759611},
+  { "district_name": "Rasuwa", "damage_percent_district_name": 72.9148975729 },
+  { "district_name": "Sindhuli", "damage_percent_district_name": 44.805168458 },
+  { "district_name": "Sindhupalchok","damage_percent_district_name": 74.5443521132}
+]
+
+,
+
+[
+  { "district_name": "Dhading", "damage_percent_district_name": 62.0249907775 ,"population_count": 361000},
+  { "district_name": "Dolakha", "damage_percent_district_name": 68.7804704459 ,"population_count":  199000},
+  { "district_name": "Gorkha", "damage_percent_district_name": 60.0909775656 ,"population_count":  290000},
+  { "district_name": "Kavrepalanchok", "damage_percent_district_name": 55.203591928 ,"population_count": 404000},
+  { "district_name": "Makwanpur", "damage_percent_district_name": 34.9036123068 ,"population_count": 448000},
+  { "district_name": "Nuwakot", "damage_percent_district_name": 68.3601421374 ,"population_count": 297000},
+  { "district_name": "Okhaldhunga", "damage_percent_district_name": 43.943373885 ,"population_count": 159000},
+  { "district_name": "Ramechhap", "damage_percent_district_name": 56.5817759611 ,"population_count": 218000},
+  { "district_name": "Rasuwa", "damage_percent_district_name": 72.9148975729 ,"population_count":  45800},
+  { "district_name": "Sindhuli", "damage_percent_district_name": 44.805168458 ,"population_count":  315000},
+  { "district_name": "Sindhupalchok","damage_percent_district_name": 74.5443521132 ,"population_count": 308000}
+]
+
+]
