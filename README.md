@@ -34,11 +34,7 @@ The folder structure is available in the One Drive link provided above. Below is
 
 ## 📑 Attached Reports
 
-We have included three report files in our submission:
-
-1. **A-3_and_A-1_combined_report**: A combined report of Assignment 3 and Assignment 1 (as appendix).
-2. **DV_Assignment1_Report**: Report of Assignment 1.
-3. **DV_Assignment3_Report**: Report of Assignment 3.
+We have included the report of our submission along the file
 
 ---
 
