@@ -24,9 +24,13 @@ The folder structure is available in the One Drive link provided above. Below is
 
 1. **Images Folder**: Contains images based on the referencing of the report for each task.
 2. **Analysis and Model Folder**: Contains the models we ran for each task.
-3. **CSV Files**: Contains the respective CSV files used for models and visualizations.
+3. **CSV Files**: Contains the respective CSV files used for models and visualizations. (Empty here for demonstrational purpose) 
 
 ---
+
+## Kaggle Datasets
+
+1. [Kaggle Datasets](https://www.kaggle.com/datasets/arashnic/earthquake-magnitude-damage-and-impact?select=csv_household_demographics.csv)
 
 ## 📑 Attached Reports
 
