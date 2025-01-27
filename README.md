@@ -1,6 +1,6 @@
 # 🚀 Team Deadline Missed
 
-Welcome to our project submission! Below you will find the details of our work and the necessary links to access our files.
+Welcome to our project submission! Below you will find the details of our work and the necessary links to access our files.   
 
 ---
 
